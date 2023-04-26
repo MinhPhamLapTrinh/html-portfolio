@@ -1,2 +1,2 @@
 # html-portfolio
-It isn't web.
+It isn't a web.
